@@ -41,13 +41,13 @@ This project is a personal terminal/shell made for learning Python and experimen
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/reyaansh72/MyBash-Python.git
 ```
 
 Go into the project folder:
 
 ```bash
-cd YOUR_REPOSITORY
+cd MyBash-Python
 ```
 
 Install dependencies:
